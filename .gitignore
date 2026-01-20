@@ -1,0 +1,121 @@
+# Eclipse
+.settings/
+.classpath
+.project
+# STS (Spring Tool Suite)
+.springBeans
+.springToolSuite
+# VSCode
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# NetBeans
+nbproject/
+
+# VS Code extensions (optional)
+.vscode/extensions/
+
+# Node.js
+node_modules/
+
+# Java compiled class files
+*.class
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# Operating System generated files
+.DS_Store            # macOS
+Thumbs.db            # Windows
+ehthumbs.db          # Windows
+
+# JetBrains Rider
+.idea/
+
+# Temporary files created by IDEs or editors
+*.swp                # Vim temporary files
+*.swo                # Vim swap files
+
+# Logs
+*.log
+
+# Build and Deployment
+/dist/
+/out/
+/build/
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/
+
+# JetBrains
+.idea/
+*.iml
+
+# Other build tools
+*.war
+*.ear
+*.jar
+
+# Gradle files
+.gradle/
+build/
+
+# Eclipse-specific project metadata
+.project
+.classpath
+
+# OS files
+.DS_Store             # macOS
+Thumbs.db             # Windows
+
+# C++/C compiled files
+*.o
+*.obj
+*.dll
+*.exe
+*.so
+
+# Log files
+*.log
+
+# SASS/SCSS
+.sass-cache/
+
+# Webpack
+node_modules/
+dist/
+build/
+
+# Composer (PHP)
+/vendor/
+
+# Laravel (PHP)
+/storage/
+.env
+
+# macOS specific
+*.DS_Store
+
+# Windows specific
+Thumbs.db
